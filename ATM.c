@@ -7,7 +7,7 @@ int balance;
 int deposit[10];
 int withdraw[10];
 }
-user1={"nandini","443646",0};
+user1={"nandini","4893476",0};
 int d_i=0,w_i=0;
 void deposit()
 {
